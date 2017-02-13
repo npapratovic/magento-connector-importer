@@ -7,7 +7,7 @@
 	*/
 
 
-	$data = array("user" => "irena@umjetninokti.hr", "password" => "lka4fc1");
+	$data = array("user" => "email@email.com", "password" => "pass");
 	$post = json_encode($data);
 
 	// getLogin 
